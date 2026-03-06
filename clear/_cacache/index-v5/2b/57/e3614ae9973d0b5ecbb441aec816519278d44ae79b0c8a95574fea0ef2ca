@@ -1,0 +1,2 @@
+
+fd41c4b5d8cac1a9aa3c7e776da0ed7f480d02a1	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@babel/parser/-/parser-7.29.0.tgz","integrity":null,"time":1772772169483,"size":"0","metadata":{"time":1772772169483,"url":"http://registry.npmjs.org/@babel/parser/-/parser-7.29.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:35 GMT","location":"https://registry.npmjs.org/@babel/parser/-/parser-7.29.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

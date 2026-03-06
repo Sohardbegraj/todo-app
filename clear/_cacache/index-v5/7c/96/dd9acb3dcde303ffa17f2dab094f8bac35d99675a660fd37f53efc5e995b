@@ -1,0 +1,2 @@
+
+f900ff54a491fc68f74629947031696a0203444e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/browserslist","integrity":null,"time":1772772161284,"size":"0","metadata":{"time":1772772161284,"url":"http://registry.npmjs.org/browserslist","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:27 GMT","location":"https://registry.npmjs.org/browserslist","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

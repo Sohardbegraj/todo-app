@@ -1,0 +1,2 @@
+
+bdc40869edf9947fd09318f524d9fa254547faec	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/path-to-regexp","integrity":null,"time":1772775681655,"size":"0","metadata":{"time":1772775681655,"url":"http://registry.npmjs.org/path-to-regexp","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:07 GMT","location":"https://registry.npmjs.org/path-to-regexp","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

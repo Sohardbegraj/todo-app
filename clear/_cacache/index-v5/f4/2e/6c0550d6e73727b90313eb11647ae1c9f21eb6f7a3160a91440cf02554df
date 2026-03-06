@@ -1,0 +1,2 @@
+
+92d68c0cf32d240d40755e174c81164df5ae0455	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@babel%2fhelper-globals","integrity":null,"time":1772772161632,"size":"0","metadata":{"time":1772772161631,"url":"http://registry.npmjs.org/@babel%2fhelper-globals","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:27 GMT","location":"https://registry.npmjs.org/@babel%2Fhelper-globals","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

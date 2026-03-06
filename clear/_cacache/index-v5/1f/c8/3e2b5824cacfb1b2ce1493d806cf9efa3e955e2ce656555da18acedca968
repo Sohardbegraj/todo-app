@@ -1,0 +1,2 @@
+
+2151d3ad9309eb364e597ce3c0277adf077f3308	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@babel%2fhelper-string-parser","integrity":null,"time":1772772161696,"size":"0","metadata":{"time":1772772161695,"url":"http://registry.npmjs.org/@babel%2fhelper-string-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:27 GMT","location":"https://registry.npmjs.org/@babel%2Fhelper-string-parser","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

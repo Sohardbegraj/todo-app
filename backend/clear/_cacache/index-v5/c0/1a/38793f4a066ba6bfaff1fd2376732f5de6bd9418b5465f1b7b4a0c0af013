@@ -1,0 +1,2 @@
+
+264414f07f0ccb2352f620f660ca7908ff8c68c1	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/touch","integrity":null,"time":1772775705680,"size":"0","metadata":{"time":1772775705680,"url":"http://registry.npmjs.org/touch","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:31 GMT","location":"https://registry.npmjs.org/touch","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

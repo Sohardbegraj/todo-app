@@ -1,0 +1,2 @@
+
+721dc8bc732358295995b39c0fcf31c62d97703e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/import-fresh","integrity":null,"time":1772772164237,"size":"0","metadata":{"time":1772772164237,"url":"http://registry.npmjs.org/import-fresh","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:30 GMT","location":"https://registry.npmjs.org/import-fresh","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

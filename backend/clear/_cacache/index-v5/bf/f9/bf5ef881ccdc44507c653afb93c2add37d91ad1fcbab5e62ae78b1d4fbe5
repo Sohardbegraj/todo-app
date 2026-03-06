@@ -1,0 +1,2 @@
+
+19b3b311b8beff03e80874cb141ebe65862a88e5	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/dotenv","integrity":null,"time":1772775679829,"size":"0","metadata":{"time":1772775679829,"url":"http://registry.npmjs.org/dotenv","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:05 GMT","location":"https://registry.npmjs.org/dotenv","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

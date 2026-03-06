@@ -1,0 +1,2 @@
+
+2d1a04a1d4fe54f981ba028f877152fbd4f71676	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@humanfs%2fcore","integrity":null,"time":1772772164371,"size":"0","metadata":{"time":1772772164370,"url":"http://registry.npmjs.org/@humanfs%2fcore","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:30 GMT","location":"https://registry.npmjs.org/@humanfs%2Fcore","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

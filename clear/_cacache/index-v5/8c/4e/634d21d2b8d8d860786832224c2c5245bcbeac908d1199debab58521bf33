@@ -1,0 +1,2 @@
+
+534b9328274e1b8be38b22eec5c0410b81b7b375	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@vitejs%2fplugin-react","integrity":null,"time":1772772155647,"size":"0","metadata":{"time":1772772155647,"url":"http://registry.npmjs.org/@vitejs%2fplugin-react","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:21 GMT","location":"https://registry.npmjs.org/@vitejs%2Fplugin-react","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

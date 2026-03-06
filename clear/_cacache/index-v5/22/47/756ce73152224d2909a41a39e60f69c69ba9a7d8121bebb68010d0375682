@@ -1,0 +1,2 @@
+
+c425f47a3944d0444d63b0d87e5f1b3e1731c15e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/json-buffer","integrity":null,"time":1772772165883,"size":"0","metadata":{"time":1772772165883,"url":"http://registry.npmjs.org/json-buffer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:31 GMT","location":"https://registry.npmjs.org/json-buffer","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

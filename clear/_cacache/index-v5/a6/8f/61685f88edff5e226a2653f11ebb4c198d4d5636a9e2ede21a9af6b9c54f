@@ -1,0 +1,2 @@
+
+a834c9465ffa429601811991f9753583fcda3343	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/nanoid/-/nanoid-3.3.11.tgz","integrity":null,"time":1772772168397,"size":"0","metadata":{"time":1772772168397,"url":"http://registry.npmjs.org/nanoid/-/nanoid-3.3.11.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:34 GMT","location":"https://registry.npmjs.org/nanoid/-/nanoid-3.3.11.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

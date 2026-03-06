@@ -1,0 +1,2 @@
+
+8353a980c66a3ca73ad43839f03524025ecfc48e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/media-typer","integrity":null,"time":1772775681667,"size":"0","metadata":{"time":1772775681667,"url":"http://registry.npmjs.org/media-typer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:07 GMT","location":"https://registry.npmjs.org/media-typer","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

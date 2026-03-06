@@ -1,0 +1,2 @@
+
+9c9ae9d72e4b81c74c762f71fc66411896be01e9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/postcss","integrity":null,"time":1772772158853,"size":"0","metadata":{"time":1772772158853,"url":"http://registry.npmjs.org/postcss","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:24 GMT","location":"https://registry.npmjs.org/postcss","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

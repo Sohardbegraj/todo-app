@@ -1,0 +1,2 @@
+
+aa203edc73d340f60b4d51773b0af13782aefb26	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/mongoose","integrity":null,"time":1772775679472,"size":"0","metadata":{"time":1772775679472,"url":"http://registry.npmjs.org/mongoose","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:05 GMT","location":"https://registry.npmjs.org/mongoose","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+fa910b0db2a6d4733bef000997cd7a4e0131549e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@esbuild%2flinux-ppc64","integrity":null,"time":1772772166631,"size":"0","metadata":{"time":1772772166631,"url":"http://registry.npmjs.org/@esbuild%2flinux-ppc64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:32 GMT","location":"https://registry.npmjs.org/@esbuild%2Flinux-ppc64","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

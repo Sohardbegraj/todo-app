@@ -1,0 +1,2 @@
+
+1c7da30eaf6d6da15eb290f1c447a6ae015408a1	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-promise","integrity":null,"time":1772775681647,"size":"0","metadata":{"time":1772775681646,"url":"http://registry.npmjs.org/is-promise","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:07 GMT","location":"https://registry.npmjs.org/is-promise","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

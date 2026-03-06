@@ -1,0 +1,2 @@
+
+60a2af096c0ca90ee346141a7d61efbd9269a56e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/pstree.remy","integrity":null,"time":1772775705650,"size":"0","metadata":{"time":1772775705649,"url":"http://registry.npmjs.org/pstree.remy","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:31 GMT","location":"https://registry.npmjs.org/pstree.remy","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+c179a8591f92fe64d97a0fc9a3a2d91b28b7b27e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/punycode","integrity":null,"time":1772775683011,"size":"0","metadata":{"time":1772775683011,"url":"http://registry.npmjs.org/punycode","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:08 GMT","location":"https://registry.npmjs.org/punycode","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

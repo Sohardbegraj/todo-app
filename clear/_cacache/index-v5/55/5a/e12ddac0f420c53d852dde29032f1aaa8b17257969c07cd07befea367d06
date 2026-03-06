@@ -1,0 +1,2 @@
+
+df77332c7cf7fd2c466f5354dca166d13372edc1	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/optionator","integrity":null,"time":1772772158198,"size":"0","metadata":{"time":1772772158198,"url":"http://registry.npmjs.org/optionator","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:24 GMT","location":"https://registry.npmjs.org/optionator","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

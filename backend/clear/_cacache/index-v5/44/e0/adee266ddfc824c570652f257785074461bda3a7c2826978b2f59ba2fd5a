@@ -1,0 +1,2 @@
+
+0f463c3aba2da4f4202a158e0eb74659ee4003b2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz","integrity":null,"time":1772775707354,"size":"0","metadata":{"time":1772775707353,"url":"http://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:33 GMT","location":"https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+9f7f13f13f3f8eb8434a0a08663057f07609a679	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/jiti","integrity":null,"time":1772772330703,"size":"0","metadata":{"time":1772772330703,"url":"http://registry.npmjs.org/jiti","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:45:16 GMT","location":"https://registry.npmjs.org/jiti","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

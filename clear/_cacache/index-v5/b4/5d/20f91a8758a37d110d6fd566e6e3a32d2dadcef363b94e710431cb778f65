@@ -1,0 +1,2 @@
+
+2dc26314e781ca2f5af4603bf3b80c7033d055f7	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/prelude-ls","integrity":null,"time":1772772164767,"size":"0","metadata":{"time":1772772164767,"url":"http://registry.npmjs.org/prelude-ls","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:30 GMT","location":"https://registry.npmjs.org/prelude-ls","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

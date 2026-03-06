@@ -1,0 +1,2 @@
+
+54b96c87a85647560e4d2c0420054ddbade0f13b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/vary/-/vary-1.1.2.tgz","integrity":null,"time":1772775683891,"size":"0","metadata":{"time":1772775683891,"url":"http://registry.npmjs.org/vary/-/vary-1.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:09 GMT","location":"https://registry.npmjs.org/vary/-/vary-1.1.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

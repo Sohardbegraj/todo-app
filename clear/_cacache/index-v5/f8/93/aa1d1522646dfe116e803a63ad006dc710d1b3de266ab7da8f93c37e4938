@@ -1,0 +1,2 @@
+
+6b7d8127ffc5858d82d22cd4f6c013feb2fd796d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/word-wrap","integrity":null,"time":1772772164843,"size":"0","metadata":{"time":1772772164843,"url":"http://registry.npmjs.org/word-wrap","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 04:42:30 GMT","location":"https://registry.npmjs.org/word-wrap","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

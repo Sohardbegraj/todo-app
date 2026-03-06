@@ -1,0 +1,2 @@
+
+8b17c2fc88fd934de8d54b4b3bd4484572f49937	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/once","integrity":null,"time":1772775679969,"size":"0","metadata":{"time":1772775679968,"url":"http://registry.npmjs.org/once","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:05 GMT","location":"https://registry.npmjs.org/once","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

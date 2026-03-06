@@ -1,0 +1,2 @@
+
+6c8eca62cc4307444e4b553510055e901de894fd	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/finalhandler","integrity":null,"time":1772775680526,"size":"0","metadata":{"time":1772775680526,"url":"http://registry.npmjs.org/finalhandler","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:06 GMT","location":"https://registry.npmjs.org/finalhandler","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

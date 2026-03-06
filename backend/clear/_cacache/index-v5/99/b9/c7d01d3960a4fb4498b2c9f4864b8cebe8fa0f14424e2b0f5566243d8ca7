@@ -1,0 +1,2 @@
+
+2b9d460d34aeb37d3176b872728a3647b0c719c3	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/cors","integrity":null,"time":1772775679710,"size":"0","metadata":{"time":1772775679710,"url":"http://registry.npmjs.org/cors","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:05 GMT","location":"https://registry.npmjs.org/cors","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

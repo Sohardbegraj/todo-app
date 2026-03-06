@@ -1,0 +1,2 @@
+
+d2f7bf79886a9fb9258d14782d0d76e2cb9195bc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/unpipe","integrity":null,"time":1772775681811,"size":"0","metadata":{"time":1772775681811,"url":"http://registry.npmjs.org/unpipe","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:07 GMT","location":"https://registry.npmjs.org/unpipe","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

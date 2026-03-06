@@ -1,0 +1,2 @@
+
+2388f45d5374dbe0c543d4205ebd6ec90293565d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fsevents","integrity":null,"time":1772775706323,"size":"0","metadata":{"time":1772775706323,"url":"http://registry.npmjs.org/fsevents","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:32 GMT","location":"https://registry.npmjs.org/fsevents","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

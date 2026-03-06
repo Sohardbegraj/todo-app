@@ -1,0 +1,2 @@
+
+56586a6172e80befedd1907cb1bdd5cd8ead7e9c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/proxy-addr","integrity":null,"time":1772775680378,"size":"0","metadata":{"time":1772775680378,"url":"http://registry.npmjs.org/proxy-addr","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:06 GMT","location":"https://registry.npmjs.org/proxy-addr","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

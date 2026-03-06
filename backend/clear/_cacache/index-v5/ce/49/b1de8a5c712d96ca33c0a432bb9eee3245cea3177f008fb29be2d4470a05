@@ -1,0 +1,2 @@
+
+60eb7f6771acc503cf2369174b445aa437018f97	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.3.tgz","integrity":null,"time":1772775683596,"size":"0","metadata":{"time":1772775683596,"url":"http://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 06 Mar 2026 05:41:09 GMT","location":"https://registry.npmjs.org/sparse-bitfield/-/sparse-bitfield-3.0.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
